@@ -1,4 +1,4 @@
-# FAO-56-PM
+## FAO-56-PM
 The Food FAO-56 Penman-Monteith is considered the standard method to calculate ETo.The FAO 56 PM method requires measurements of temperature, relative humidity, wind speed, and solar radiation.
 The FAO-56 Penman-Monteith formula for daily ETo (mm/ day<sup>-1</sup>) :
 
@@ -15,3 +15,9 @@ The FAO-56 Penman-Monteith formula for daily ETo (mm/ day<sup>-1</sup>) :
 - **u2** is the wind speed at 2 m (ms<sup>−1</sup>)
 - **es** is the saturation vapor pressure (kPa)
 - **ea** is the actual vapor pressure (kPa)
+
+
+## Resources
+#### [FAO Irrigation and Drainage Paper No. 56 ](http://www.climasouth.eu/sites/default/files/FAO%2056.pdf)
+#### [Crop evapotranspiration FAO Irrigation and drainage paper 56](https://www.fao.org/3/x0490e/x0490e00.htm#Contents)
+#### [Step by Step Calculation of the Penman-Monteith Evapotranspiration (FAO-56 Method)](https://www.agraria.unirc.it/documentazione/materiale_didattico/1462_2016_412_24509.pdf)
